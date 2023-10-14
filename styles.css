@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    /* background-color: #ffffff; */
+    background-color: #00040f;
+    color: aliceblue;
+}
+
+nav {
+    /* background-color: #00040f; */
+    border: none;
+}
+
+.generation {
+    color: #5CE1E6;
+}
+
+.group-image {
+    width: 100%;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
